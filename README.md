@@ -34,7 +34,7 @@ To get a local copy up and running, follow these simple steps:
 
 ```bash
 git clone https://github.com/SaadFarooq-Dev/react-front-plugin.git
-cd front-plugin
+cd react-front-plugin
 ```
 
 2. Install dependencies:
@@ -65,7 +65,7 @@ Here are some of the npm scripts you can use:
 - `npm run build: Build the production-ready code. `
 - `npm run lint: Lint the codebase for potential errors.`
 - `npm run preview: Preview the production build locally.`
-- `npm run knip: (Explain what this script does)`
+- `npm run knip: (finds unused files, dependencies and exports)`
 - `npm run prepare: Prepare Husky Git hooks.`
 
 ### Committing Changes
