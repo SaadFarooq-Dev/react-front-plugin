@@ -16,6 +16,10 @@ This project is a plugin for Front, built using React, TypeScript, and Vite. It 
 - Husky for Git hooks
 - NextUI & Tailwind CSS for styling
 
+## Demo
+![image](https://github.com/SaadFarooq-Dev/react-front-plugin/assets/89783597/ce101293-0228-4086-acfe-819f4e7265e7)
+![image](https://github.com/SaadFarooq-Dev/react-front-plugin/assets/89783597/afc72ee5-8422-43b2-8835-e968fead23f2)
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
