@@ -24,7 +24,6 @@ This project is a plugin for Front, built using React, TypeScript, and Vite. It 
 
 Before you begin, ensure you have met the following requirements:
 
-- Node.js version as specified in `package.json` `engines` field
 - npm/yarn for managing packages
 
 ## Getting Started
