@@ -1,0 +1,158 @@
+{
+	"customers": [
+		{
+			"id": 1,
+			"fullName": "John Doe",
+			"email": "dtesting1330@gmail.com",
+			"phoneNumber": "555-1234",
+			"transactions": [
+				{
+					"transactionId": "tx123",
+					"amount": 40,
+					"date": "2024-02-20"
+				},
+				{
+					"transactionId": "tx456",
+					"amount": 40,
+					"date": "2024-02-19"
+				},
+				{
+					"transactionId": "tx789",
+					"amount": 60,
+					"date": "2024-02-18"
+				}
+			],
+			"productsOwned": [
+				{
+					"transactionId": "tx123",
+					"id": 1,
+					"name": "T-shirt",
+					"image": "https://example.com/tshirt.jpg",
+					"price": 20.0,
+					"quantity": 2
+				},
+				{
+					"transactionId": "tx123",
+					"id": 2,
+					"name": "Jeans",
+					"image": "https://example.com/jeans.jpg",
+					"price": 40.0,
+					"quantity": 1
+				},
+				{
+					"transactionId": "tx789",
+					"id": 3,
+					"name": "Sneakers",
+					"image": "https://example.com/sneakers.jpg",
+					"price": 60.0,
+					"quantity": 1
+				}
+			]
+		},
+		{
+			"id": 2,
+			"fullName": "Jane Smith",
+			"email": "jane.smith@example.com",
+			"phoneNumber": "555-5678",
+			"transactions": [
+				{
+					"transactionId": "tx101",
+					"amount": 800,
+					"date": "2024-02-17"
+				},
+				{
+					"transactionId": "tx102",
+					"amount": 800,
+					"date": "2024-02-16"
+				},
+				{
+					"transactionId": "tx103",
+					"amount": 800,
+					"date": "2024-02-15"
+				}
+			],
+			"productsOwned": [
+				{
+					"transactionId": "tx101",
+					"id": 4,
+					"name": "Laptop",
+					"image": "https://example.com/laptop.jpg",
+					"price": 800.0,
+					"quantity": 1
+				},
+				{
+					"transactionId": "tx102",
+					"id": 5,
+					"name": "Headphones",
+					"image": "https://example.com/headphones.jpg",
+					"price": 150.0,
+					"quantity": 1
+				}
+			]
+		},
+		{
+			"id": 3,
+			"fullName": "Alice Johnson",
+			"email": "alice.johnson@example.com",
+			"phoneNumber": "555-9012",
+			"transactions": [
+				{
+					"transactionId": "tx104",
+					"amount": 50,
+					"date": "2024-02-14"
+				},
+				{
+					"transactionId": "tx105",
+					"amount": 150,
+					"date": "2024-02-13"
+				}
+			],
+			"productsOwned": [
+				{
+					"transactionId": "tx104",
+					"id": 6,
+					"name": "Backpack",
+					"image": "https://example.com/backpack.jpg",
+					"price": 50.0,
+					"quantity": 1
+				}
+			]
+		},
+		{
+			"id": 4,
+			"fullName": "Bob Brown",
+			"email": "bob.brown@example.com",
+			"phoneNumber": "555-3456",
+			"transactions": [
+				{
+					"transactionId": "tx106",
+					"amount": 80,
+					"date": "2024-02-12"
+				},
+				{
+					"transactionId": "tx107",
+					"amount": 110,
+					"date": "2024-02-11"
+				}
+			],
+			"productsOwned": [
+				{
+					"transactionId": "tx106",
+					"id": 7,
+					"name": "Sunglasses",
+					"image": "https://example.com/sunglasses.jpg",
+					"price": 80.0,
+					"quantity": 1
+				},
+				{
+					"transactionId": "tx107",
+					"id": 8,
+					"name": "Watch",
+					"image": "https://example.com/watch.jpg",
+					"price": 110.0,
+					"quantity": 1
+				}
+			]
+		}
+	]
+}
